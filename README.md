@@ -1,3 +1,12 @@
+# Custom MMDeploy Implementation For MMPose 1.0.0
+Based on MMDeploy 1.1.0
+## What's new?
+- Add RTMPose config;
+- Add custom example for pose detection inference benchmark;
+- Add MMPose RLE support to SDK inference；
+- The CMakeList.txt file is modified to generate the custom_example executable file in install/bin dir after compilation
+
+## The following is the original README.md from mmdeploy 1.1.0
 <div align="center">
   <img src="resources/mmdeploy-logo.png" width="450"/>
   <div>&nbsp;</div>
